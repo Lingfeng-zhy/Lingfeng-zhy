@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Lingfeng-zhy/Lingfeng-zhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I am Lingfeng_zhy, a personal developer from Zhangjiakou, Hebei, China.
+## You can also call me Lingfeng or zhy or 凌风.
+- 🔭 I am currently a student at Zhangjiakou No.1 Senior Middle School.
+- 🌱 I’m currently learning python to prepare for the High School Academic Proficiency Examination.I also know C++.
+- 👯 I usually use Windows or Arch Linux.
+- 📱 My phone: Oneplus Ace 3v
+- 💻 My PC: Dell Latitude 5490
+- 📫 How to reach me?
+- 1. QQ: 1802962745
+  2. Email: zhyzhyzhy0912@gmail.com or zhyzhyzhy1216@outlook.com
+- 🌍Languages: Chinese / English
+- ⚡ I enjoy playing Genshin Impact and Minecraft Java Edition.
+- 🤗 My motto: No matter what happens, never give up.
