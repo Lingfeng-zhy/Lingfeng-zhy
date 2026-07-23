@@ -1,6 +1,6 @@
 # Hi, I am Lingfeng_zhy
 <div align="center">
-<img align="center" height="64" width="64" alt="IMG_20260719_140253" src="https://github.com/user-attachments/assets/428d9c55-2e5c-4157-81a5-23f0e9858c4c" />
+<img align="center" height="128" width="128" alt="IMG_20260719_140253" src="https://github.com/user-attachments/assets/428d9c55-2e5c-4157-81a5-23f0e9858c4c" />
 
 # A personal developer from Zhangjiakou, Hebei, China.
 # You can also call me Lingfeng or zhy or 凌风.
