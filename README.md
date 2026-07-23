@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" height="512" width="512 alt="IMG_20260719_140253" src="https://github.com/user-attachments/assets/428d9c55-2e5c-4157-81a5-23f0e9858c4c" />
+<img align="center" height="256" width="256" alt="IMG_20260719_140253" src="https://github.com/user-attachments/assets/428d9c55-2e5c-4157-81a5-23f0e9858c4c" />
 
 # Hi, I am Lingfeng_zhy
 # A personal developer from Zhangjiakou, Hebei, China.
