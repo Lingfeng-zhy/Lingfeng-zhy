@@ -10,7 +10,7 @@
 - 📱 My phone: Oneplus Ace 3v
 - 💻 My PC: Dell Latitude 5490
 - 📫 How to reach me?
-- 1. QQ: 1802962745
+  1. QQ: 1802962745
   2. Email: zhyzhyzhy0912@gmail.com or zhyzhyzhy1216@outlook.com
 - 🌍Languages: Chinese / English
 - ⚡ I enjoy playing Genshin Impact and Minecraft Java Edition.
