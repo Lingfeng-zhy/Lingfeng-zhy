@@ -1,5 +1,5 @@
 # Hi, I am Lingfeng_zhy,
-#a personal developer from Zhangjiakou, Hebei, China.
+# a personal developer from Zhangjiakou, Hebei, China.
 ## You can also call me Lingfeng or zhy or 凌风.
 - 🔭 I am currently a student at Zhangjiakou No.1 Senior Middle School.
 - 🌱 I’m currently learning python to prepare for the High School Academic Proficiency Examination.I also know C++.
